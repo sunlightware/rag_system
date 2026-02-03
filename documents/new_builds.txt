@@ -1,0 +1,33 @@
+Takeaway 1: Increasingly automated AI R&D is a potential source of major
+strategic surprise. While experts disagree on likelihood, scenarios are possible in
+which AI R&D becomes highly automated, the pace of AI R&D accelerates
+dramatically, and the resulting systems pose extreme risks. This warrants
+preparatory action now.
+
+Takeaway 2: Frontier AI companies are already using AI to accelerate AI R&D,
+and usage is increasing as AI models get more advanced. New models are often
+used internally to advance AI R&D before they are released to the public.
+
+Takeaway 3: Experts’ views differ on how rapid and impactful AI R&D
+automation is likely to be. Even if the use of AI in AI R&D continues to increase,
+there is no consensus on whether AI progress is more likely to accelerate or
+plateau. What’s more, because different views are associated with different
+assumptions about how AI R&D works, new data on how AI R&D automation is
+progressing in practice may be insufficient to resolve conflicting perspectives. It
+thus may be difficult to either detect or rule out extreme ‘intelligence explosion’
+scenarios in advance.
+
+Takeaway 4: Despite challenges in interpreting new evidence, better access to
+indicators of progress in AI R&D automation would be valuable. Existing
+empirical evidence, including existing benchmark evaluations, is insufficient for
+measuring, understanding, and forecasting the trajectory of automated AI R&D.
+More systematic collection of existing indicators—as well as developing ways of
+gathering new indicators—could provide a significantly clearer picture.
+
+Takeaway 5: Thoughtfully designed transparency efforts could improve access
+to valuable empirical information about AI R&D automation, which at present
+is almost fully dependent on patchy, voluntary releases of information from
+companies. While some early transparency mandates on frontier AI development
+have recently been enacted, they do not focus on indicators related to automating
+AI R&D. Policymakers have a range of options for how to increase visibility of
+these indicators.
